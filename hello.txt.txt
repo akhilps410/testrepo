@@ -1,2 +1,3 @@
 Hello to Git and devops training
 second line added
+adding a line from local res
