@@ -1,2 +1,5 @@
 Hello to Git and devops training
+
 second line added
+
+next test line from cloud
